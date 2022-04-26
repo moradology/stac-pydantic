@@ -20,7 +20,7 @@ setup(
     description="Pydantic data models for the STAC spec",
     long_description=desc,
     long_description_content_type="text/markdown",
-    version="2.0.1",
+    version="2.0.2",
     python_requires=">=3.7",
     classifiers=[
         "Intended Audience :: Developers",
@@ -31,7 +31,7 @@ setup(
         "License :: OSI Approved :: MIT License",
     ],
     keywords="stac pydantic validation",
-    author=u"Arturo Engineering",
+    author="Arturo Engineering",
     author_email="engineering@arturo.ai",
     url="https://github.com/stac-utils/stac-pydantic",
     license="MIT",
